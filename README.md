@@ -18,6 +18,8 @@ This is a Python script that uses the Stanza library to generate constituency pa
     pip install stanza
 
 3. Run the script:
+   ```bash
+   python parsetree.ipynb
 
 
 
